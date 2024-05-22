@@ -1,3 +1,13 @@
-{
+[
+  {
+    "DepartmentId": 1,
+    "DepartmentName": "IT",
+    "isActive": true
+  },
+  {
+    "DepartmentId": 2,
+    "DepartmentName": "Business",
+    "IsActive": false
+  }
+ ]
 
-}
