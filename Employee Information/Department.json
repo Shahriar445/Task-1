@@ -8,6 +8,11 @@
     "DepartmentId": 2,
     "DepartmentName": "Business",
     "IsActive": false
+  },
+  {
+    "DepartmentId": 3,
+    "DepartmentName": "HR",
+    "IsActive": false
   }
- ]
+]
 
